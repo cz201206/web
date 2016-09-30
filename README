@@ -1,1 +1,4 @@
 web插件
+命令
+ssh-keygen -t rsa -C "youremail@example.com" -> github中添加公钥
+git remote add origin git@github.com:cz201206/web.git -> git push -u origin master
